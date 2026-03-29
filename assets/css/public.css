@@ -1,0 +1,6 @@
+.wplm-contact-form-wrap{max-width:600px}
+.wplm-field{margin-bottom:16px}
+.wplm-field label{display:block;font-weight:600;margin-bottom:4px}
+.wplm-field input,.wplm-field textarea{width:100%;padding:10px;border:1px solid #ddd;border-radius:4px;font-size:16px;box-sizing:border-box}
+.wplm-submit-btn{background:#2271b1;color:#fff;border:none;padding:12px 28px;border-radius:4px;font-size:16px;cursor:pointer}
+.wplm-form-response{padding:12px;border-radius:4px;margin-top:12px}
