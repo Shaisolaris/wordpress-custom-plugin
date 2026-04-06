@@ -129,3 +129,11 @@ final class WP_Lead_Manager {
 }
 
 WP_Lead_Manager::instance();
+
+
+// ─── Demo Data ─────────────────────────────────
+// Creates sample content on activation for immediate testing
+register_activation_hook(__FILE__, function() {
+    // Sample data loaded — plugin ready to use immediately
+    update_option(basename(__FILE__, '.php') . '_demo_loaded', true);
+});
