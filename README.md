@@ -1,5 +1,12 @@
 # WP Lead Manager Pro
 
+
+## Quick Start
+
+1. Copy to `wp-content/plugins/wordpress-custom-plugin/`
+2. Activate in WordPress admin
+3. Configure in Settings
+
 A full-featured CRM and lead management plugin for WordPress. Captures leads from contact forms, manages them through a pipeline with custom statuses, assigns them to team members, tracks deal value, and exposes a complete REST API.
 
 ## Features
