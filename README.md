@@ -1,6 +1,9 @@
 # WP Lead Manager Pro
 
 
+
+WordPress lead management CRM plugin with custom post types, REST API, admin dashboard, CSV import/export, email notifications, and contact form shortcode.
+
 ## Quick Start
 
 1. Copy to `wp-content/plugins/wordpress-custom-plugin/`
